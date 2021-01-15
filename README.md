@@ -1,5 +1,11 @@
 # twitter_user_follow_scraper
 
+
+###----!!!This repo stoped working after twitter site changes!!!----
+###----I suggest using https://github.com/Altimis/Scweet instead----
+
+
+
 A simple .ipynb or .py script to scrape user's followers and following information.
 
 ---> Simple mode returns DataFrame with fullname, username, profile picture and user link
