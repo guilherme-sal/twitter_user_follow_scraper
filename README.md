@@ -1,8 +1,8 @@
 # twitter_user_follow_scraper
 
 
-###----!!!This repo stoped working after twitter site changes!!!----
-###----I suggest using https://github.com/Altimis/Scweet instead----
+----!!!This repo stoped working after twitter site changes!!!----
+----I suggest using https://github.com/Altimis/Scweet instead----
 
 
 
